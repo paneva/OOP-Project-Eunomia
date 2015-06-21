@@ -1,0 +1,11 @@
+c:\users\a32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.exe.config
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.exe
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.pdb
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\bin\Debug\Engine.dll
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\bin\Debug\Engine.pdb
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csprojResolveAssemblyReference.cache
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.NamelessRPG.resources
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.Properties.Resources.resources
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csproj.GenerateResource.Cache
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.exe
+C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.pdb
