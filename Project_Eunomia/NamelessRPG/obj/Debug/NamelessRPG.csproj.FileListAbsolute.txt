@@ -9,3 +9,14 @@ C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\o
 C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csproj.GenerateResource.Cache
 C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.exe
 C:\Users\A32\documents\visual studio 2013\Projects\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.pdb
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.exe.config
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.exe
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.pdb
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.exe
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.pdb
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\bin\Debug\Engine.dll
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\bin\Debug\Engine.pdb
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csprojResolveAssemblyReference.cache
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.NamelessRPG.resources
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.Properties.Resources.resources
+D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csproj.GenerateResource.Cache
