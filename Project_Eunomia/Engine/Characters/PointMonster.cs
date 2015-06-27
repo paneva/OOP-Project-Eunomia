@@ -12,6 +12,7 @@ namespace Engine.Characters
         public int RewardExperiencePoints { get; set; }
         public int RewardGold { get; set; }
         public List<LootItem> LootTable { get; set; }
+        public bool IsKills = false;
         public PointMonster(int id, string name,bool isKills, int maximumDamage, int rewardExperiencePoints, int rewardGold, int currentHitPoints, int maximumHitPoints)
             : base(id, name, isKills)
         {
