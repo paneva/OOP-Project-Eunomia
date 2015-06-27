@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Characters\LifeMonster.cs" />
+    <Compile Include="Characters\PointMonster.cs" />
     <Compile Include="Items\HealingPotion.cs" />
     <Compile Include="Items\InventoryItem.cs" />
     <Compile Include="Items\Item.cs" />

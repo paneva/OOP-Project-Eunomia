@@ -8,14 +8,15 @@ namespace Engine
 {
     public class LivingCreature
     {
-        public int CurrentHitPoints { get; set; }
+        public int id;
+        public string name;
 
-        public int MaximumHitPoints { get; set; }
-
-        public LivingCreature(int currentHitPoints, int maximumHitPoints)
+        public LivingCreature(int id, string name)
         {
-            CurrentHitPoints = currentHitPoints;
-            MaximumHitPoints = maximumHitPoints;
+            Name = name;
+            ID = id;
         }
+        public int ID { get; set; }
+        public string Name { get; set; }
     }
 }

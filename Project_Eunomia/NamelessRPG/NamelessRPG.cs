@@ -21,7 +21,7 @@ namespace NamelessRPG
             InitializeComponent();
 
 
-            _player = new Player(100, 100, 0, 0, 1);
+            _player = new Player(1, "Josh", 100, 100, 0, 0, 1);
 
             IblHitPoints.Text = _player.MaximumHitPoints.ToString();
             IblGold.Text = _player.Gold.ToString();
