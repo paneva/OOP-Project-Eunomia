@@ -20,3 +20,14 @@ D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG
 D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.NamelessRPG.resources
 D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.Properties.Resources.resources
 D:\Softuni\OOP-Project-Eunomia\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csproj.GenerateResource.Cache
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.exe.config
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.exe
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.pdb
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.exe
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\bin\Debug\NamelessRPG.pdb
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\bin\Debug\Engine.dll
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\bin\Debug\Engine.pdb
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csprojResolveAssemblyReference.cache
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.NamelessRPG.resources
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.Properties.Resources.resources
+C:\Users\soryusen\Desktop\OOP-Project\Project_Eunomia\NamelessRPG\obj\Debug\NamelessRPG.csproj.GenerateResource.Cache

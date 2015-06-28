@@ -23,10 +23,10 @@ namespace NamelessRPG
 
             _player = new Player(1, "Josh", 100, 100, 0, 0, 1);
 
-            IblHitPoints.Text = _player.MaximumHitPoints.ToString();
-            IblGold.Text = _player.Gold.ToString();
-            IblExperience.Text = _player.ExperiencePoints.ToString();
-            IblLevel.Text = _player.Level.ToString();
+   //         IblHitPoints.Text = _player.MaximumHitPoints.ToString();
+   //         IblGold.Text = _player.Gold.ToString();
+   //         IblExperience.Text = _player.ExperiencePoints.ToString();
+   //         IblLevel.Text = _player.Level.ToString();
 
 
         }
