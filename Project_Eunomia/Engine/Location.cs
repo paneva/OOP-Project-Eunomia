@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Engine.Items;
+using Engine.Quests;
+using Engine.Characters;
 
 namespace Engine
 {

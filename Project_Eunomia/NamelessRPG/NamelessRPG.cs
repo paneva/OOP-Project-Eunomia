@@ -8,7 +8,7 @@ using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Engine;
+using Engine.Characters;
 
 namespace NamelessRPG
 {
