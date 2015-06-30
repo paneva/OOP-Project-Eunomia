@@ -43,6 +43,7 @@
     <Compile Include="Characters\AmountMonster.cs" />
     <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Items\HealingPotion.cs" />
+    <Compile Include="Items\HealingAmount.cs" />
     <Compile Include="Items\InventoryItem.cs" />
     <Compile Include="Items\Item.cs" />
     <Compile Include="Characters\LivingCreature.cs" />
