@@ -40,7 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Characters\LifeMonster.cs" />
-    <Compile Include="Characters\PointMonster.cs" />
+    <Compile Include="Characters\AmountMonster.cs" />
+    <Compile Include="Interfaces\IHeal.cs" />
     <Compile Include="Items\HealingPotion.cs" />
     <Compile Include="Items\InventoryItem.cs" />
     <Compile Include="Items\Item.cs" />
@@ -54,6 +55,9 @@
     <Compile Include="Quests\Quest.cs" />
     <Compile Include="Quests\QuestCompletionItem.cs" />
     <Compile Include="Items\Weapon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

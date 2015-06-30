@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Engine.Items;
 
 namespace Engine.Characters
 {
-    class PointMonster:Monster
+    class AmountMonster:Monster
     {
         public int MaximumDamage { get; set; }
         public int RewardExperiencePoints { get; set; }
         public int RewardGold { get; set; }
         public List<LootItem> LootTable { get; set; }
         public bool IsKills = false;
-        public PointMonster(int id, string name,bool isKills, int maximumDamage, int rewardExperiencePoints, int rewardGold, int currentHitPoints, int maximumHitPoints)
+        public AmountMonster(int id, string name,bool isKills, int maximumDamage, int rewardExperiencePoints, int rewardGold, int currentHitPoints, int maximumHitPoints)
             : base(id, name, isKills)
         {
             ID = id;

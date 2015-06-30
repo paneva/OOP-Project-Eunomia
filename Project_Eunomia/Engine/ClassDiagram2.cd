@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Engine.Characters.LifeMonster" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\LifeMonster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Characters.AmountMonster" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAQAAAYAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Characters\AmountMonster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Characters.LivingCreature" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Characters\LivingCreature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Characters.Monster" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Characters\Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Characters.Player" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAoAACAAAAAAEAAACAAAAABAAAAAgAAAAE=</HashCode>
+      <FileName>Characters\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Engine.Items.HealingPotion" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\HealingPotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Items.InventoryItem" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Items\InventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Items.Item" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Items.LootItem" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAACAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\LootItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Items.Weapon" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Location" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgwAAAAAAAAAQBAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Quests.PlayerQuest" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quests\PlayerQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Quests.Quest" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgkAAAAAAAAAwAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Quests\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Engine.Quests.QuestCompletionItem" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Quests\QuestCompletionItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

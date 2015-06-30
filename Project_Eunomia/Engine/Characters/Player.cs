@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Engine.Interfaces;
+using Engine.Items;
+using Engine.Quests;
 
-namespace Engine
+namespace Engine.Characters
 {
-    public class Player : LivingCreature
+    public class Player : LivingCreature, IHeal
     {
         public int Gold { get; set; }
         public int ExperiencePoints { get; set; }
@@ -29,5 +32,11 @@ namespace Engine
             Inventory = new List<InventoryItem>();
             Quests = new List<PlayerQuest>();
         }
+
+        public void Heal(HealingPotion Potion)
+        {
+            this.ExperiencePoints += Potion.AmountToHeal;        
+        }
+
     }
 }
